@@ -15,7 +15,7 @@ Download the project and run it using command line :
 
 3) Open the Command prompt and go to the Project directory 
 
-4) open and copy the Youtube Video url from browser
+4) Get the Youtube Video url from browser
 
 5) download the video by using below command :
 
