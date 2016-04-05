@@ -1,7 +1,8 @@
 # YouTubeDownloader
 
-Due to windows file saving/creation criteria , tool was throwing error INVALID arguemnts , as it's not able to save the file name which is taken directly from title of the youtube video.
+Due to windows file saving/creation criteria , tool was throwing an error of "INVALID arguements" , as it's not able to save the file name which is taken directly from title of the youtube video.
 This is happening because of the presence of the quantifiers,spaces etc.
+
 In the new .exe all the changes are included.
 
 
